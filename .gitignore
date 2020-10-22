@@ -36,3 +36,6 @@ artifacts/
 
 node_modules/
 .env
+
+# goreleaser
+dist/
