@@ -37,5 +37,8 @@ artifacts/
 node_modules/
 .env
 
+# Go modules
+vendor/
+
 # goreleaser
 dist/
